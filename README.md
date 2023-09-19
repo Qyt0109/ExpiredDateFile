@@ -1,5 +1,5 @@
 # ExpiredDateFile
-Tạo file license được mã hoá chứa thông tin về hạn sử dụng của một chương trình.
+Thiết lập thời điểm mà một chương trình sẽ bị hết hạn. Project này ứng dụng trong việc tạo apps trả phí, yêu cầu gia hạn thêm để tiếp tục sử dụng,... :) Have fun
 
 ## Các file chương trình:
 - <a href="https://github.com/Qyt0109/ExpiredDateFile/blob/main/rsa.py">rsa.py</a> chứa các hàm liên quan tới mã hoá, giải mã thông tin sử dụng hệ mật mã khoá công khai RSA với module (thư viện) <a href="https://cryptography.io">cryptography</a>.
